@@ -1,0 +1,6 @@
+The last homework I did was only a few minutes ago in complexity economics. I struggled my way through a deceptively
+written jupyter notebook. The notebook required running 2/3 of the way through, the going back, changing parameters,
+and rerunning all the way to the end. This had the effect of saving 2 different matrices to compare on a graph. The
+going back and forth on the notebook was not clear or intuitive from the comments or the assignment. The notebooks
+also always specify a font of "Futura" for the graphs. I don't have Futura loaded anywhere in Anaconda and so I have
+to strategically go through every notebook and remove font references just to get it to run.  
