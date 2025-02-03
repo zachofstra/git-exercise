@@ -1,4 +1,4 @@
-The last homework I did was only a few minutes ago in complexity economics. I struggled my way through a deceptively
+The last homework I did was only a few hours ago in complexity economics. I struggled my way through a deceptively
 written jupyter notebook. The notebook required running 2/3 of the way through, the going back, changing parameters,
 and rerunning all the way to the end. This had the effect of saving 2 different matrices to compare on a graph. The
 going back and forth on the notebook was not clear or intuitive from the comments or the assignment. The notebooks
